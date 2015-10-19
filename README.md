@@ -1,5 +1,6 @@
-# What-s-cookie
+# WHAT-IS-AN-COOKIE
 Description of cookies for information for beginners
+![download](https://cloud.githubusercontent.com/assets/15031033/10583494/9206cd7c-768d-11e5-9613-288940e922b5.jpg)
 ##COOKIE
 
 An HTTP cookie (also called web cookie, Internet cookie, browser cookie or simply cookie), is a small piece of data sent from a website and stored in a user's web browser while the user is browsing that website. 
