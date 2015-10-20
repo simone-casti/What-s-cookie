@@ -1,4 +1,4 @@
-# WHAT-IS-AN-COOKIE
+# WHAT-IS-A-COOKIE
 Description of cookies for information for beginners
 ![download](https://cloud.githubusercontent.com/assets/15031033/10583494/9206cd7c-768d-11e5-9613-288940e922b5.jpg)
 ##COOKIE
