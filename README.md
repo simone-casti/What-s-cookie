@@ -34,3 +34,4 @@ It specifies that third-party cookies were either not allowed at all, or at leas
 
 ![cookie1](https://cloud.githubusercontent.com/assets/15031033/10583101/674241a4-768b-11e5-9eb5-1e7e0b2697f9.jpg)
 
+
